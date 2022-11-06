@@ -1,1 +1,0 @@
-# NN-to-classify-LBP-patterns-in-dermoscopy-images
